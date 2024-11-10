@@ -1,4 +1,4 @@
-let token = "lCz4uoMryxkGDigZLzF6";
+let token = "";
 export default {
 	async fetch(request ,env) {
 		const url = new URL(request.url);
